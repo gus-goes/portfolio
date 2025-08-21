@@ -135,7 +135,7 @@ function App() {
       company: "SEMDEC",
       period: "2023 - 2025",
       description:
-        "Desenvolvi interfaces com foco em acessibilidade e semântica utilizando Vue.js e Bootstrap. Realizei a integração com APIs públicas do Gov.BR para exibição dinâmica de dados e fui responsável por manutenções e atualizações em sistemas existentes.",
+        "Desenvolvi interfaces com foco em acessibilidade e semântica utilizando Vue.JS e Bootstrap. Realizei a integração com APIs públicas do Gov.BR para exibição dinâmica de dados e fui responsável por manutenções e atualizações em sistemas existentes.",
       technologies: ["Vue.js", "Bootstrap", "API Rest", "Git", "GitHub"],
     },
   ];
