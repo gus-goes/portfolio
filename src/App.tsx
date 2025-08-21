@@ -239,7 +239,9 @@ function App() {
       <header className="fixed top-0 w-full bg-slate-900/90 backdrop-blur-sm z-50 border-b border-slate-700">
         <nav className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
-            <div className="text-2xl font-bold text-blue-500">Gus.DEV</div>
+            <div className="text-2xl font-bold text-dark-blue-500">
+              Gustavo Goes
+            </div>
             {/* Desktop Menu */}
             <div className="hidden md:flex space-x-8">
               {[
